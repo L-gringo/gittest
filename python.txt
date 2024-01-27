@@ -1,3 +1,4 @@
 This is my python file for test.
 I try next step to modify this file.
-I add this new line as a test of second branch
+I add this new line as a test of second branch.
+Just an option for test
